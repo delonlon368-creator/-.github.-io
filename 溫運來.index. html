@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Autobiography</title>
+</head>
+<body>
+    <h1>My Autobiography</h1>
+
+    <h2>About Me</h2>
+    <p>My name is Wen Yun Lai.</p>
+
+    <h2>Education</h2>
+    <p>I am studying at Ling Tung University.</p>
+
+    <h2>Work Experience</h2>
+    <p>I worked in a fruit factory in Taiwan.</p>
+
+    <h2>Future Plan</h2>
+    <p>I hope to find a good job in Taiwan after graduation.</p>
+</body>
+</html>
